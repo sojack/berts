@@ -149,7 +149,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <Seo title="Home" />
+      <Seo title="Bert's Online Menu" />
       <MenuContainer>
         <StaticImage className="logo" src="../images/logo-berts.png" alt="A kitten" />
         <h1 id="sharables">SHAREABLES</h1>

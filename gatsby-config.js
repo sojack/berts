@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `GatsbyStarter`,
+    title: `Bert's Online Menu`,
     author: `jsDesigns`,
-    description: `getting it started`,
-    siteUrl: `http://testingitstill.com`,
+    description: `online menu`,
+    siteUrl: `http://jsdesigns.com`,
   },
   plugins: [
     "gatsby-plugin-styled-components",
