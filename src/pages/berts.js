@@ -12,7 +12,7 @@ const MenuItem = styled.div`
   }
 
   grid-template-columns: 6fr 3fr 1fr;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 
   h3{
     align-self:center;
@@ -63,7 +63,7 @@ h2{
 }
 .logo{
   width:350px;
-  display:block;
+  display:block !important;
   margin:auto;
 }
 
