@@ -6,13 +6,13 @@ import styled from "styled-components";
 
 
 
-const IndexPage = () => {
+const CheckpointPage = () => {
   return (
     <Layout>
-      <Seo title="Ottawa Senators Concession Online Menu" />
-      <p>Ottawa Senators Concession Online Menu</p>
+      <Seo title="Checkpoint Online Menu" />
+      <p>Checkpoint Online Menu</p>
     </Layout>
   );
 };
 
-export default IndexPage;
+export default CheckpointPage;
