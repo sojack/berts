@@ -162,40 +162,32 @@ const CheckpointPage = () => {
         <h1 id="fanfair">Fan Fair</h1>
         <MenuItem>
           <h3>SIGNATURE KETTLE CHIPS</h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">120 Calories</p>  
+          <p className="price">9.50</p>
           <div className="description">
             <p>Chipotle Mayo Dip and Homemade Creamy Onion and Dill Dip</p>
           </div>
         </MenuItem>
         <MenuItem>
           <h3>SWEET POTATO FRIES</h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">980 Calories</p>  
+          <p className="price">9.50</p>
           <div className="description">
             <p>Chipotle Mayo Dip and Homemade Creamy Onion and Dill Dip</p>
           </div>
         </MenuItem>
         <MenuItem>
-          <h3>GOLDEN PALACE EGG ROLLS</h3>
-          <p className="calories">230 Calories</p>  
-          <p className="price">99</p>
-          <div className="description">
-            <p>With Signature Plum Sauce </p>
-          </div>
-        </MenuItem>
-        <MenuItem>
           <h3>BUFFALO BUTTER CHICKEN WINGS </h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">1270 Calories</p>  
+          <p className="price">19.50</p>
           <div className="description">
             <p>With Blue Cheese Dip </p>
           </div>
         </MenuItem>
         <MenuItem>
           <h3>DEEP FRIED PICKLES </h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">1200 Calories</p>  
+          <p className="price">12</p>
           <div className="description">
             <p>Homemade Creamy Onion and Dill Dip </p>
           </div>
@@ -206,7 +198,7 @@ const CheckpointPage = () => {
         <MenuItem>
           <h3>CHECK POINT BURGER</h3>
           <p className="calories">1480 Calories</p>  
-          <p className="price">99</p>
+          <p className="price">21</p>
           <div className="description">
             <p>Fresh grilled Pattie, aged Cheddar, Clipped Greens, Fire Seared Onions, Vine Tomatoes &amp; Drizzled with our signature Chek-sauce</p>
           </div>
@@ -214,8 +206,8 @@ const CheckpointPage = () => {
 
         <MenuItem>
           <h3>Bacon Mushroom Burger</h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">1380 Calories</p>  
+          <p className="price">21</p>
           <div className="description">
             <p>Fresh grilled Pattie, Crispy Bacon, Sautee Mushroom and Onions, aged Cheddar, Clipped Greens, Vine Tomatoes &amp; Drizzled with our signature Chek-sauce</p>
           </div>
@@ -223,8 +215,8 @@ const CheckpointPage = () => {
 
         <MenuItem>
           <h3>CANDIED BACON GRILLED CHEESE</h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">980 Calories</p>  
+          <p className="price">19</p>
           <div className="description">
             <p>Includes orange and aged white cheddar cheese, candied bacon on toasted Texas white bread</p>
           </div>
@@ -232,8 +224,8 @@ const CheckpointPage = () => {
 
         <MenuItem>
           <h3>CHECK POINT CLUB SANDWICH</h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">1560 Calories</p>  
+          <p className="price">23</p>
           <div className="description">
             <p>Seasoned Grilled Chicken Breast, Candied Bacon, Clipped Greens, Vine Tomatoes &amp; Chipotle Mayo</p>
           </div>
@@ -242,7 +234,7 @@ const CheckpointPage = () => {
         <MenuItem>
           <h3>BEYOND BEEF VEGGIE BURGER</h3>
           <p className="calories">1630 Calories</p>  
-          <p className="price">99</p>
+          <p className="price">17</p>
           <div className="description">
             <p>Plant based vegetable burger, fresh Guacamole, Clipped Greens, Red Onion &amp; Tomato Relish</p>
           </div>
@@ -253,7 +245,7 @@ const CheckpointPage = () => {
         <MenuItem>
           <h3>SIGNATURE PUB STYLE FISH AND CHIPS</h3>
           <p className="calories">1320 Calories</p>  
-          <p className="price">99</p>
+          <p className="price">22</p>
           <div className="description">
             <p>Battered Haddock Loin, Tartar Sauce, Lemon, with Fresh Cut Fries</p>
           </div>
@@ -261,8 +253,8 @@ const CheckpointPage = () => {
 
         <MenuItem>
           <h3>BUDDHA BOWL</h3>
-          <p className="calories">XX Calories</p>  
-          <p className="price">99</p>
+          <p className="calories">1030 Calories</p>  
+          <p className="price">17</p>
           <div className="description">
             <p>Grilled Tofu, Roasted Cauliflower, Peppers, Red Onion, Arugula served on Brown Rice Yellow Lentils with a Roasted Sesame Seed Dressing and Drizzled with a Siracha Mayo </p>
             <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.50</span></p>
@@ -274,7 +266,7 @@ const CheckpointPage = () => {
         <MenuItem>
           <h3>Cheddar Cheese Dog </h3>
           <p className="calories">1070 Calories</p>  
-          <p className="price">99</p>
+          <p className="price">10</p>
           <div className="description">
             <p>Served with Fresh cut Fries </p>
           </div>
@@ -283,7 +275,7 @@ const CheckpointPage = () => {
         <MenuItem>
           <h3>PINTYS CHICKEN TENDERS </h3>
           <p className="calories">1110 Calories</p>  
-          <p className="price">99</p>
+          <p className="price">10</p>
           <div className="description">
             <p>Plum Sauce Fresh Cut Fries</p>
           </div>
@@ -293,7 +285,7 @@ const CheckpointPage = () => {
         <MenuItem>
           <h3>Dessert Poutine</h3>
           <p className="calories">480 Calories</p>  
-          <p className="price">99</p>
+          <p className="price">9.50</p>
           <div className="description">
             <p>Funnel Cake Fries, Vanilla Bean Ice Cream, Salted Caramel Drizzle</p>
           </div>

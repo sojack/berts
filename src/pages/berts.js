@@ -166,7 +166,7 @@ const BertsPage = () => {
         <MenuItem>
           <h3>Chicken Wings</h3>
           <p  className="calories">1270 Calories</p>  
-          <p className="price">20</p>
+          <p className="price">19.50</p>
           <div className="description">
             <p>BBQ, Medium, Hot, Honey Garlic or Honey Hot<br />
           Pound of Chicken Wings tossed in your favorite sauce served with a side Ranch and Carrot &amp; Celery Stix </p>
@@ -181,15 +181,26 @@ const BertsPage = () => {
             <p>Single Portion of corn chips baked with Cheddar Cheese, Jalapeno Cheese Sauce, Pico (Bruschetta Mix) and Sweet Chipotle Drizzle and Fresh Crema</p>
             <p>*Serves 2 People* </p>
             <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span> <span className="addPrice">6.50</span> </p>
-            <p className="addItem">Add Seasoned Ground Beef <span className="addCalories">XXX Calories</span> <span className="addPrice">5.00</span></p>
-            <p className="addItem">Add Maple Candy Bacon <span className="addCalories">XXX Calories</span> <span className="addPrice">5.00</span></p>
+            <p className="addItem">Add Seasoned Ground Beef <span className="addCalories">150 Calories</span> <span className="addPrice">5.00</span></p>
+            <p className="addItem">Add Maple Candy Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5.00</span></p>
+          </div>
+        </MenuItem> 
+
+        <MenuItem>
+          <h3>The Original Poutine</h3>
+          <p  className="calories">1340 Calories</p>  
+          <p className="price">19.50</p>
+          <div className="description">
+            <p>Fresh Cut Fries, St Albert Cheese Curds, Gravy</p>
+            <p className="addItem">Add Smoked Meat <span className="addCalories">200 Calories</span> <span className="addPrice">5.00</span></p>
+            <p className="addItem">Add Candied Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5.00</span></p>
           </div>
         </MenuItem> 
         <div className="pizzaSection">
           <h1 id="pizza">STONE FIRED PIZZA</h1>
           <p>All our pizzas are Hand Stretched, using Caputo Flour for our dough, giving you the perfect Blistered Crust</p>
           <p>*Option to add Basil Pesto as replacement for Crushed Raw Tomato Sauce*</p>
-
+{/* 
           <MenuItem>
             <h3>Pepperoni </h3>
             <p  className="calories">XXX Calories</p>  
@@ -205,18 +216,18 @@ const BertsPage = () => {
             <div className="description">
               <p>Crushed Raw tomato Sauce, Grated Mozzarella</p>
             </div>
-          </MenuItem> 
+          </MenuItem>  */}
           <MenuItem>
             <h3>Chefs Special </h3>
-            <p  className="calories">XXX Calories</p>  
+            <p  className="calories"></p>  
             <p className="price">21</p>
             <div className="Chef choice Pizza of the Night">
-              <p>BBQ</p>
+              <p>Chef choice Pizza of the Night </p>
             </div>
           </MenuItem> 
           <MenuItem>
             <h3>Meat Lovers </h3>
-            <p  className="calories">XXX Calories</p>  
+            <p  className="calories">1350 Calories</p>  
             <p className="price">18</p>
             <div className="description">
               <p>Crushed Raw Tomato Sauce, Pepperoni, Italian Sausage, Mozzarella Cheese</p>
@@ -224,7 +235,7 @@ const BertsPage = () => {
           </MenuItem> 
           <MenuItem>
             <h3>Chicken Bruschetta </h3>
-            <p  className="calories">XXX Calories</p>  
+            <p  className="calories">1235 Calories</p>  
             <p className="price">21</p>
             <div className="description">
               <p>Garlic Oil, Bruschetta Blend, diced Grilled Chicken, and Mozzarella Cheese</p>
@@ -233,7 +244,7 @@ const BertsPage = () => {
           <h2>White Pizzas</h2>
           <MenuItem>
             <h3>Fungi </h3>
-            <p  className="calories">XXX Calories</p>  
+            <p  className="calories">1050 Calories</p>  
             <p className="price">18</p>
             <div className="description">
               <p>Garlic Roasted Mushrooms, Alfredo Drizzle, Ricotta Dollop</p>
@@ -241,7 +252,7 @@ const BertsPage = () => {
           </MenuItem> 
           <MenuItem>
             <h3>Bianca </h3>
-            <p  className="calories">XXX Calories</p>  
+            <p  className="calories">1148 Calories</p>  
             <p className="price">19</p>
             <div className="description">
               <p>Truffle Oil, Italian Sausage, Mozzarella Cheese, Basil, and Ricotta Dollop</p>
@@ -249,7 +260,7 @@ const BertsPage = () => {
           </MenuItem> 
           <MenuItem>
             <h3>Salmone </h3>
-            <p  className="calories">XXX Calories</p>  
+            <p  className="calories">1310 Calories</p>  
             <p className="price">19</p>
             <div className="description">
               <p>Alfredo Drizzle, Sliced Smoked Salmon, Arugula, Ricotta Dollop</p>
@@ -258,10 +269,10 @@ const BertsPage = () => {
         </div>
 
         <h1 id="berts">BERT’S FAVORITES</h1>
-        <p>Sandwiches &amp; Wraps Served with option of side: Fries (980 Calories) or Garden Salad (XXX Calories), Side Caesar $6 (440 Calories), Side Poutine $7 (670 Calories)</p>
+        <p>Sandwiches &amp; Wraps Served with option of side: Fries (980 Calories) or Garden Salad (300 Calories), Side Caesar $6 (440 Calories), Side Poutine $7 (670 Calories)</p>
         <MenuItem>
           <h3>Bert’s Signature Burger </h3>
-          <p  className="calories">XXX Calories</p>  
+          <p  className="calories">1380 Calories</p>  
           <p className="price">21</p>
           <div className="description">
             <p>6oz Sirloin Burger served with Cheddar Cheese, Crisp Romain Lettuce, Vine Ripe Tomato and Red Onion on a Brioche Bun with a side Pickle Spear</p>
@@ -270,7 +281,7 @@ const BertsPage = () => {
         
         <MenuItem>
           <h3>Bert’s Loaded Burger </h3>
-          <p  className="calories">XXX Calories</p>  
+          <p  className="calories">1450 Calories</p>  
           <p className="price">25</p>
           <div className="description">
             <p>6oz Sirloin Burger served with Swiss Cheese, Sauteed Mushroom, Crispy Candy Bacon, Crisp Romain Lettuce, Vine Ripe Tomato and Red Onion with a BBQ Aioli on a Brioche Bun and a Side Pickle Spear</p>
@@ -288,7 +299,7 @@ const BertsPage = () => {
 
         <MenuItem>
           <h3>Chicken Candy Bacon Club </h3>
-          <p  className="calories">XXX Calories</p>  
+          <p  className="calories">1060 Calories</p>  
           <p className="price">23</p>
           <div className="description">
             <p>Grilled Chicken Breast, Thin Sliced Tomato, with Peppercorn Mayo served on 6x4 Ciabatta Bun</p>
@@ -297,20 +308,19 @@ const BertsPage = () => {
 
         <MenuItem>
           <h3>Caesar Wrap </h3>
-          <p  className="calories">XXX Calories</p>  
-          <p className="price">23</p>
+          <p  className="calories">1320 Calories</p>  
+          <p className="price">14</p>
           <div className="description">
             <p>Crisp Romaine Lettuce, Fresh Parmesan Cheese, Candy Bacon and Caesar Dressing Seared to finish in a Tomato basil Wrap</p>
-            <p className="addItem">ADD Crispy Chicken <span className="addCalories">XXX Calories</span><span className="addPrice">5</span></p>
+            <p className="addItem">ADD Crispy Chicken <span className="addCalories">950 Calories</span><span className="addPrice">5</span></p>
             <p className="addItem">ADD Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.50</span></p>
-            <p className="addItem">ADD Crispy Cauliflower Bites <span className="addCalories">XXX Calories</span><span className="addPrice">5</span></p>
             <p>* Have it tossed in Buffalo sauce for a spicy kick *</p>
           </div>
         </MenuItem> 
 
         <MenuItem>
           <h3>Grilled Marinated Vegetable Wrap </h3>
-          <p  className="calories">XXX Calories</p>  
+          <p  className="calories">420 Calories</p>  
           <p className="price">19</p>
           <div className="description">
             <p>Grilled Seasoned Vegetables in a Light Balsamic Marinade with Fetta Cheese, Bruschetta Mix and Guacamole wrapped in a Tomato basil Wrap</p>
@@ -319,7 +329,7 @@ const BertsPage = () => {
 
         <MenuItem>
           <h3>Grilled Chicken &amp; Mango Salad </h3>
-          <p  className="calories">XXX Calories</p>  
+          <p  className="calories">820 Calories</p>  
           <p className="price">19</p>
           <div className="description">
             <p>Crisp Greens, Sliced Mango, Avocado, with Poppy Seed Vinaigrette</p>
@@ -359,29 +369,21 @@ const BertsPage = () => {
 
         <MenuItem>
           <h3>Kids Cheese Pizza </h3>
-          <p  className="calories">XXX Calories</p>  
+          <p  className="calories">650 Calories</p>  
           <p className="price">13</p>
         </MenuItem> 
 
         <h1 id="sweets">SWEETS</h1>
 
         <MenuItem>
-          <h3>[ITEM TO COME] </h3>
-          <p  className="calories">XXX Calories</p>  
-          <p className="price">XX</p>
+          <h3>Big Brownie Sundae</h3>
+          <p  className="calories">1060 Calories</p>  
+          <p className="price">10.25</p>
           <div className="description">
-            <p>[Description to come]</p>
+            <p>French Vanilla Ice Cream, Candied Walnuts, Caramel Sauce </p>
           </div>
         </MenuItem> 
 
-        <MenuItem>
-          <h3>[ITEM TO COME] </h3>
-          <p  className="calories">XXX Calories</p>  
-          <p className="price">XX</p>
-          <div className="description">
-            <p>[Description to come]</p>
-          </div>
-        </MenuItem> 
         <div onClick={clickHandler} onKeyDown={clickHandler} className="menuButton">Menu</div>
 
         <FlyingMenuContainer className={menuState ? "active" : "inactive"}>
