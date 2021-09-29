@@ -181,8 +181,8 @@ const BertsPage = () => {
             <p>Single Portion of corn chips baked with Cheddar Cheese, Jalapeno Cheese Sauce, Pico (Bruschetta Mix) and Sweet Chipotle Drizzle and Fresh Crema</p>
             <p>*Serves 2 People* </p>
             <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span> <span className="addPrice">6.50</span> </p>
-            <p className="addItem">Add Seasoned Ground Beef <span className="addCalories">150 Calories</span> <span className="addPrice">5.00</span></p>
-            <p className="addItem">Add Maple Candy Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5.00</span></p>
+            <p className="addItem">Add Seasoned Ground Beef <span className="addCalories">150 Calories</span> <span className="addPrice">5</span></p>
+            <p className="addItem">Add Maple Candy Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5</span></p>
           </div>
         </MenuItem> 
 
@@ -192,8 +192,8 @@ const BertsPage = () => {
           <p className="price">19.50</p>
           <div className="description">
             <p>Fresh Cut Fries, St Albert Cheese Curds, Gravy</p>
-            <p className="addItem">Add Smoked Meat <span className="addCalories">200 Calories</span> <span className="addPrice">5.00</span></p>
-            <p className="addItem">Add Candied Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5.00</span></p>
+            <p className="addItem">Add Smoked Meat <span className="addCalories">200 Calories</span> <span className="addPrice">5</span></p>
+            <p className="addItem">Add Candied Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5</span></p>
           </div>
         </MenuItem> 
         <div className="pizzaSection">
