@@ -218,7 +218,7 @@ const BertsPage = () => {
             </div>
           </MenuItem>  */}
           <MenuItem>
-            <h3>Chefs Special </h3>
+            <h3>Chef's Special </h3>
             <p  className="calories"></p>  
             <p className="price">21</p>
             <div className="description">
