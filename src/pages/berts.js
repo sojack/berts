@@ -159,7 +159,7 @@ const BertsPage = () => {
           <p className="calories">1480 Calories</p>  
           <p className="price">19</p>
           <div className="description">
-            <p>Crispy Chicken Fingers served with Fries and Plum Sauce </p>
+            <p>Crispy Chicken Fingers Served with Fries and Plum Sauce</p>
           </div>
         </MenuItem>
 
@@ -169,7 +169,7 @@ const BertsPage = () => {
           <p className="price">19.50</p>
           <div className="description">
             <p>BBQ, Medium, Hot, Honey Garlic or Honey Hot<br />
-          Pound of Chicken Wings tossed in your favorite sauce served with a side Ranch and Carrot &amp; Celery Stix </p>
+            A Pound of Chicken Wings Tossed in Your Favourite Sauce, Served with a Side of Ranch, Carrot &amp; Celery Sticks</p>
           </div>
         </MenuItem> 
 
@@ -178,7 +178,7 @@ const BertsPage = () => {
           <p  className="calories">1760 Calories</p>  
           <p className="price">17</p>
           <div className="description">
-            <p>Single Portion of corn chips baked with Cheddar Cheese, Jalapeno Cheese Sauce, Pico (Bruschetta Mix) and Sweet Chipotle Drizzle and Fresh Crema</p>
+            <p>Single Portion of Corn Chips, Baked with Cheddar Cheese, Jalapeno Cheese Sauce, Pico (Bruschetta Mix) and Sweet Chipotle Drizzle and Fresh Crema</p>
             <p>*Serves 2 People* </p>
             <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span> <span className="addPrice">6.50</span> </p>
             <p className="addItem">Add Seasoned Ground Beef <span className="addCalories">150 Calories</span> <span className="addPrice">5</span></p>
@@ -198,7 +198,7 @@ const BertsPage = () => {
         </MenuItem> 
         <div className="pizzaSection">
           <h1 id="pizza">STONE FIRED PIZZA</h1>
-          <p>All our pizzas are Hand Stretched, using Caputo Flour for our dough, giving you the perfect Blistered Crust</p>
+          <p>All Our Pizzas are Hand Stretched, Using Caputo Flour for Our Dough, Giving You the Perfect Blistered Crust</p>
           <p>*Option to add Basil Pesto as replacement for Crushed Raw Tomato Sauce*</p>
 {/* 
           <MenuItem>
@@ -221,8 +221,8 @@ const BertsPage = () => {
             <h3>Chefs Special </h3>
             <p  className="calories"></p>  
             <p className="price">21</p>
-            <div className="Chef choice Pizza of the Night">
-              <p>Chef choice Pizza of the Night </p>
+            <div className="description">
+              <p>Chef's Pizza of the Night </p>
             </div>
           </MenuItem> 
           <MenuItem>
@@ -238,7 +238,7 @@ const BertsPage = () => {
             <p  className="calories">1235 Calories</p>  
             <p className="price">21</p>
             <div className="description">
-              <p>Garlic Oil, Bruschetta Blend, diced Grilled Chicken, and Mozzarella Cheese</p>
+              <p>Garlic Oil, Bruschetta Blend, Diced Grilled Chicken, and Mozzarella Cheese</p>
             </div>
           </MenuItem> 
           <h2>White Pizzas</h2>
@@ -275,7 +275,7 @@ const BertsPage = () => {
           <p  className="calories">1380 Calories</p>  
           <p className="price">21</p>
           <div className="description">
-            <p>6oz Sirloin Burger served with Cheddar Cheese, Crisp Romain Lettuce, Vine Ripe Tomato and Red Onion on a Brioche Bun with a side Pickle Spear</p>
+            <p>6oz Sirloin Burger Served with Cheddar Cheese, Crisp Romain Lettuce, Vine Ripened Tomato and Red Onion on a Brioche Bun with a Side Pickle Spear</p>
           </div>
         </MenuItem> 
         
@@ -284,7 +284,7 @@ const BertsPage = () => {
           <p  className="calories">1450 Calories</p>  
           <p className="price">25</p>
           <div className="description">
-            <p>6oz Sirloin Burger served with Swiss Cheese, Sauteed Mushroom, Crispy Candy Bacon, Crisp Romain Lettuce, Vine Ripe Tomato and Red Onion with a BBQ Aioli on a Brioche Bun and a Side Pickle Spear</p>
+            <p>6oz Sirloin Burger Served with Swiss Cheese, Sauteed Mushrooms, Crispy Candied Bacon, Crisp Romain Lettuce, Vine Ripened Tomato and Red Onion with a BBQ Aioli on a Brioche Bun and a Side Pickle Spear</p>
           </div>
         </MenuItem> 
 
@@ -293,16 +293,16 @@ const BertsPage = () => {
           <p  className="calories">1650 Calories</p>  
           <p className="price">20</p>
           <div className="description">
-            <p>Smoked Meat, Candy Bacon Sour Kraut, Thousand Islands Dressing and Swiss Cheese Served on Soft Ryebread</p>
+            <p>Smoked Meat, Candied Bacon, Sour Kraut, Thousand Islands Dressing and Swiss Cheese, Served on Soft Ryebread</p>
           </div>
         </MenuItem> 
 
         <MenuItem>
-          <h3>Chicken Candy Bacon Club </h3>
+          <h3>Chicken Candied Bacon Club </h3>
           <p  className="calories">1060 Calories</p>  
           <p className="price">23</p>
           <div className="description">
-            <p>Grilled Chicken Breast, Thin Sliced Tomato, with Peppercorn Mayo served on 6x4 Ciabatta Bun</p>
+            <p>Grilled Chicken Breast, Thin Sliced Tomato, with Peppercorn Mayo Served on 6x4 Ciabatta Bun</p>
           </div>
         </MenuItem> 
 
@@ -311,7 +311,7 @@ const BertsPage = () => {
           <p  className="calories">1320 Calories</p>  
           <p className="price">14</p>
           <div className="description">
-            <p>Crisp Romaine Lettuce, Fresh Parmesan Cheese, Candy Bacon and Caesar Dressing Seared to finish in a Tomato basil Wrap</p>
+            <p>Crisp Romaine Lettuce, Fresh Parmesan Cheese, Candied Bacon and Caesar Dressing, Seared to Finish in a Tomato basil Wrap</p>
             <p className="addItem">ADD Crispy Chicken <span className="addCalories">950 Calories</span><span className="addPrice">5</span></p>
             <p className="addItem">ADD Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.50</span></p>
             <p>* Have it tossed in Buffalo sauce for a spicy kick *</p>
@@ -323,7 +323,7 @@ const BertsPage = () => {
           <p  className="calories">420 Calories</p>  
           <p className="price">19</p>
           <div className="description">
-            <p>Grilled Seasoned Vegetables in a Light Balsamic Marinade with Fetta Cheese, Bruschetta Mix and Guacamole wrapped in a Tomato basil Wrap</p>
+            <p>Grilled Seasoned Vegetables in a Light Balsamic Marinade with Feta Cheese, Bruschetta Mix and Guacamole Wrapped in a Tomato Basil Wrap</p>
           </div>
         </MenuItem> 
 
@@ -341,7 +341,7 @@ const BertsPage = () => {
           <p  className="calories">710 Calories</p>  
           <p className="price">16.50</p>
           <div className="description">
-            <p>Crisp Romaine Lettuce, Fresh Parmesan Cheese, Candy Bacon, Seasoned Croutons and Caesar Dressing</p>
+            <p>Crisp Romaine Lettuce, Fresh Parmesan Cheese, Candied Bacon, Seasoned Croutons and Caesar Dressing</p>
             <p className="addItem">ADD Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.50</span></p>
           </div>
         </MenuItem> 
@@ -383,6 +383,10 @@ const BertsPage = () => {
             <p>French Vanilla Ice Cream, Candied Walnuts, Caramel Sauce </p>
           </div>
         </MenuItem> 
+        <p>Adults and youth (ages 13 and older) need an average of 2,000 calories a day, and children (ages 4 to 12) need an average of 1,500 calories a day. However, individual needs vary.</p>
+        <p>*Consuming raw or undercooked meats. poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.</p>
+        &nbsp;
+        
 
         <div onClick={clickHandler} onKeyDown={clickHandler} className="menuButton">Menu</div>
 

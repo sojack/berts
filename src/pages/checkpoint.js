@@ -18,6 +18,7 @@ const MenuItem = styled.div`
   h3{
     align-self:center;
     font-size:1.2rem;
+    text-transform:uppercase;
   }
   .price{
     align-self:center;
@@ -159,7 +160,7 @@ const CheckpointPage = () => {
       <MenuContainer>
         <StaticImage className="logo" src="../images/logo-checkpoint-white.png" alt="A kitten" />
 
-        <h1 id="fanfair">Fan Fair</h1>
+        <h1 id="fanfair">Fan Fare</h1>
         <MenuItem>
           <h3>SIGNATURE KETTLE CHIPS</h3>
           <p className="calories">120 Calories</p>  
@@ -177,11 +178,11 @@ const CheckpointPage = () => {
           </div>
         </MenuItem>
         <MenuItem>
-          <h3>BUFFALO BUTTER CHICKEN WINGS </h3>
+          <h3>Buffalo Battered Chicken Wings</h3>
           <p className="calories">1270 Calories</p>  
           <p className="price">19.50</p>
           <div className="description">
-            <p>With Blue Cheese Dip </p>
+            <p>with Blue Cheese Dip </p>
           </div>
         </MenuItem>
         <MenuItem>
@@ -196,11 +197,11 @@ const CheckpointPage = () => {
         <h1 id="craftburgers">Craft Burgers</h1>
         <p className="note">Option of side: Fries (980 Calories) or Garden Salad (300 Calories), Side Caesar $6 (440 Calories), Side Poutine $7 (670 Calories) </p>
         <MenuItem>
-          <h3>CHECK POINT BURGER</h3>
+          <h3>CHEK POINT BURGER</h3>
           <p className="calories">1480 Calories</p>  
           <p className="price">21</p>
           <div className="description">
-            <p>Fresh grilled Pattie, aged Cheddar, Clipped Greens, Fire Seared Onions, Vine Tomatoes &amp; Drizzled with our signature Chek-sauce</p>
+            <p>Fresh Grilled Pattie, Aged Cheddar, Clipped Greens, Fire Seared Onions, Vine Ripened Tomatoes &amp; Drizzled with our Signature Chek-Sauce</p>
           </div>
         </MenuItem>
 
@@ -209,7 +210,7 @@ const CheckpointPage = () => {
           <p className="calories">1380 Calories</p>  
           <p className="price">21</p>
           <div className="description">
-            <p>Fresh grilled Pattie, Crispy Bacon, Sautee Mushroom and Onions, aged Cheddar, Clipped Greens, Vine Tomatoes &amp; Drizzled with our signature Chek-sauce</p>
+            <p>Fresh Grilled Pattie, Crispy Bacon, Sautee Mushroom and Onions, Aged Cheddar, Clipped Greens, Vine Ripened Tomatoes &amp; Drizzled with our Signature Chek-Sauce</p>
           </div>
         </MenuItem>
 
@@ -218,16 +219,16 @@ const CheckpointPage = () => {
           <p className="calories">980 Calories</p>  
           <p className="price">19</p>
           <div className="description">
-            <p>Includes orange and aged white cheddar cheese, candied bacon on toasted Texas white bread</p>
+            <p>Includes Orange and Aged White Cheddar Cheese, Candied Bacon on Toasted Texas White Bread</p>
           </div>
         </MenuItem>
 
         <MenuItem>
-          <h3>CHECK POINT CLUB SANDWICH</h3>
+          <h3>CHEK POINT CLUB SANDWICH</h3>
           <p className="calories">1560 Calories</p>  
           <p className="price">23</p>
           <div className="description">
-            <p>Seasoned Grilled Chicken Breast, Candied Bacon, Clipped Greens, Vine Tomatoes &amp; Chipotle Mayo</p>
+            <p>Seasoned Grilled Chicken Breast, Candied Bacon, Clipped Greens, Vine Ripened Tomatoes &amp; Chipotle Mayo</p>
           </div>
         </MenuItem>
 
@@ -236,11 +237,11 @@ const CheckpointPage = () => {
           <p className="calories">1630 Calories</p>  
           <p className="price">17</p>
           <div className="description">
-            <p>Plant based vegetable burger, fresh Guacamole, Clipped Greens, Red Onion &amp; Tomato Relish</p>
+            <p>Plant Based Vegetable Burger, Fresh Guacamole, Clipped Greens, Red Onion &amp; Tomato Relish</p>
           </div>
         </MenuItem>
 
-        <h1 id="checkfave">Check Favorites</h1>
+        <h1 id="checkfave">Chek Favorites</h1>
 
         <MenuItem>
           <h3>SIGNATURE PUB STYLE FISH AND CHIPS</h3>
@@ -256,7 +257,7 @@ const CheckpointPage = () => {
           <p className="calories">1030 Calories</p>  
           <p className="price">17</p>
           <div className="description">
-            <p>Grilled Tofu, Roasted Cauliflower, Peppers, Red Onion, Arugula served on Brown Rice Yellow Lentils with a Roasted Sesame Seed Dressing and Drizzled with a Siracha Mayo </p>
+            <p>Grilled Tofu, Roasted Cauliflower, Peppers, Red Onion, Arugula Served on Brown Rice Yellow Lentils with a Roasted Sesame Seed Dressing and Drizzled with a Siracha Mayo </p>
             <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.50</span></p>
           </div>
         </MenuItem>
@@ -268,16 +269,16 @@ const CheckpointPage = () => {
           <p className="calories">1070 Calories</p>  
           <p className="price">10</p>
           <div className="description">
-            <p>Served with Fresh cut Fries </p>
+            <p>Served with Fresh Cut Fries </p>
           </div>
         </MenuItem>
 
         <MenuItem>
-          <h3>PINTYS CHICKEN TENDERS </h3>
+          <h3>PINTY'S CHICKEN TENDERS </h3>
           <p className="calories">1110 Calories</p>  
           <p className="price">10</p>
           <div className="description">
-            <p>Plum Sauce Fresh Cut Fries</p>
+            <p>Served with Plum Sauce and Fresh Cut Fries</p>
           </div>
         </MenuItem>
         <h1 id="sweets">Sweets</h1>
