@@ -174,26 +174,24 @@ const BertsPage = () => {
         </MenuItem> 
 
         <MenuItem>
-          <h3>No Naked Nacho</h3>
+          <h3>Sens Nacho</h3>
           <p  className="calories">1760 Calories</p>  
           <p className="price">17</p>
           <div className="description">
             <p>Single Portion of Corn Chips, Baked with Cheddar Cheese, Jalapeno Cheese Sauce, Pico (Bruschetta Mix) and Sweet Chipotle Drizzle and Fresh Crema</p>
             <p>*Serves 2 People* </p>
-            <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span> <span className="addPrice">6.50</span> </p>
-            <p className="addItem">Add Seasoned Ground Beef <span className="addCalories">150 Calories</span> <span className="addPrice">5</span></p>
-            <p className="addItem">Add Maple Candy Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5</span></p>
+            <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span> <span className="addPrice">6.25</span> </p>
           </div>
         </MenuItem> 
 
         <MenuItem>
           <h3>The Original Poutine</h3>
           <p  className="calories">1340 Calories</p>  
-          <p className="price">19.50</p>
+          <p className="price">14.25</p>
           <div className="description">
             <p>Fresh Cut Fries, St Albert Cheese Curds, Gravy</p>
-            <p className="addItem">Add Smoked Meat <span className="addCalories">200 Calories</span> <span className="addPrice">5</span></p>
-            <p className="addItem">Add Candied Bacon <span className="addCalories">90 Calories</span> <span className="addPrice">5</span></p>
+            <p className="addItem">Add Smoked Meat <span className="addCalories">200 Calories</span> <span className="addPrice">3</span></p>
+            
           </div>
         </MenuItem> 
         <div className="pizzaSection">
@@ -313,7 +311,7 @@ const BertsPage = () => {
           <div className="description">
             <p>Crisp Romaine Lettuce, Fresh Parmesan Cheese, Candied Bacon and Caesar Dressing, Seared to Finish in a Tomato basil Wrap</p>
             <p className="addItem">ADD Crispy Chicken <span className="addCalories">950 Calories</span><span className="addPrice">5</span></p>
-            <p className="addItem">ADD Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.50</span></p>
+            <p className="addItem">ADD Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.25</span></p>
             <p>* Have it tossed in Buffalo sauce for a spicy kick *</p>
           </div>
         </MenuItem> 
@@ -342,7 +340,7 @@ const BertsPage = () => {
           <p className="price">16.50</p>
           <div className="description">
             <p>Crisp Romaine Lettuce, Fresh Parmesan Cheese, Candied Bacon, Seasoned Croutons and Caesar Dressing</p>
-            <p className="addItem">ADD Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.50</span></p>
+            <p className="addItem">ADD Grilled Chicken <span className="addCalories">280 Calories</span><span className="addPrice">6.25</span></p>
           </div>
         </MenuItem> 
 
