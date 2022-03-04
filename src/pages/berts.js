@@ -241,7 +241,7 @@ const BertsPage = () => {
               <p>Garlic Oil, Bruschetta Blend, Diced Grilled Chicken, and Mozzarella Cheese</p>
             </div>
           </MenuItem> 
-          <h2>White Pizzas</h2>
+          {/* <h2>White Pizzas</h2>
           <MenuItem>
             <h3>Fungi </h3>
             <p  className="calories">1050 Calories</p>  
@@ -265,7 +265,7 @@ const BertsPage = () => {
             <div className="description">
               <p>Alfredo Drizzle, Sliced Smoked Salmon, Arugula, Ricotta Dollop</p>
             </div>
-          </MenuItem> 
+          </MenuItem>  */}
         </div>
 
         <h1 id="berts">BERT’S FAVORITES</h1>
@@ -273,7 +273,7 @@ const BertsPage = () => {
         <MenuItem>
           <h3>Bert’s Signature Burger </h3>
           <p  className="calories">1380 Calories</p>  
-          <p className="price">21</p>
+          <p className="price">19.50</p>
           <div className="description">
             <p>6oz Sirloin Burger Served with Cheddar Cheese, Crisp Romain Lettuce, Vine Ripened Tomato and Red Onion on a Brioche Bun with a Side Pickle Spear</p>
           </div>
@@ -282,25 +282,25 @@ const BertsPage = () => {
         <MenuItem>
           <h3>Bert’s Loaded Burger </h3>
           <p  className="calories">1450 Calories</p>  
-          <p className="price">25</p>
+          <p className="price">23</p>
           <div className="description">
             <p>6oz Sirloin Burger Served with Swiss Cheese, Sauteed Mushrooms, Crispy Candied Bacon, Crisp Romain Lettuce, Vine Ripened Tomato and Red Onion with a BBQ Aioli on a Brioche Bun and a Side Pickle Spear</p>
           </div>
         </MenuItem> 
 
         <MenuItem>
-          <h3>Ruben </h3>
-          <p  className="calories">1650 Calories</p>  
-          <p className="price">20</p>
+          <h3>Smoked Meat Sandwich </h3>
+          <p  className="calories">910 Calories</p>  
+          <p className="price">17.75</p>
           <div className="description">
-            <p>Smoked Meat, Candied Bacon, Sour Kraut, Thousand Islands Dressing and Swiss Cheese, Served on Soft Ryebread</p>
+            <p>Smoked Meat | Mustard | Served on Soft Marble Rye Bread</p>
           </div>
         </MenuItem> 
 
         <MenuItem>
           <h3>Chicken Candied Bacon Club </h3>
           <p  className="calories">1060 Calories</p>  
-          <p className="price">23</p>
+          <p className="price">21</p>
           <div className="description">
             <p>Grilled Chicken Breast, Thin Sliced Tomato, with Peppercorn Mayo Served on 6x4 Ciabatta Bun</p>
           </div>
@@ -319,11 +319,11 @@ const BertsPage = () => {
         </MenuItem> 
 
         <MenuItem>
-          <h3>Grilled Marinated Vegetable Wrap </h3>
-          <p  className="calories">420 Calories</p>  
+          <h3>Falafel Wrap </h3>
+          <p  className="calories">238 Calories</p>  
           <p className="price">19</p>
           <div className="description">
-            <p>Grilled Seasoned Vegetables in a Light Balsamic Marinade with Feta Cheese, Bruschetta Mix and Guacamole Wrapped in a Tomato Basil Wrap</p>
+            <p>Falafel | Romaine Lettuce| Bruschetta Mix | Tzatziki |Wrapped in a Tortilla Wrap</p>
           </div>
         </MenuItem> 
 
