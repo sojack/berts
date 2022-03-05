@@ -178,7 +178,7 @@ const BertsPage = () => {
           <p  className="calories">1760 Calories</p>  
           <p className="price">17</p>
           <div className="description">
-            <p>Single Portion of Corn Chips, Baked with Cheddar Cheese, Jalapeno Cheese Sauce, Pico (Bruschetta Mix) and Sweet Chipotle Drizzle and Fresh Crema</p>
+            <p>Sens Crispy Tortilla Chips, Shredded Jack &amp; Cheddar Cheese, Bert’s Fresh Made Pico de Gallo &amp; Side Salsa, Sour Cream, Guacamole</p>
             <p>*Serves 2 People* </p>
             <p className="addItem">Add Grilled Chicken <span className="addCalories">280 Calories</span> <span className="addPrice">6.25</span> </p>
           </div>
